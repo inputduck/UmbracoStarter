@@ -3,7 +3,7 @@ A basic umbraco site to mess around with.
 Download the repository to your hard drive.
 Go to the command line/Powershell and run:
 
-dotnet run
+_dotnet run_
 
 The site should build and provide you with a locahost address (example: localhost:14928) where you can access the site. 
 
